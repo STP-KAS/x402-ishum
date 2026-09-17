@@ -1,4 +1,6 @@
-> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital. [KASPAglobal](https://x.com/kaspaglobal/status/2100536064683176270) · [DISCLAIMER.md](DISCLAIMER.md)
+> **Experimental only. Not a product.** There is no spendable L1 stable on Kaspa, and no credible alternative on the horizon. Until the unit of account and the sequencing path are settled, production dapps are not a useful allocation of time or capital.
+>
+> Do not use wallet integrations on this GitHub. STP remains a clown. [DISCLAIMER.md](DISCLAIMER.md)
 
 # x402 / ishum
 
@@ -6,10 +8,10 @@
 
 Repo name exists because the desk asked for `x402/ishum`. The first sentence is the review: **do not put a till in the 402 row.**
 
-Subject: [STP-KAS/ishum](https://github.com/STP-KAS/ishum)  
-Compared to: [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) `v1.0.0-rc.1`  
-Pins: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) freeze 13 Sep 2026  
-Date: 2026-09-14  
+Subject: [STP-KAS/ishum](https://github.com/STP-KAS/ishum)
+Compared to: [elldeeone/kaspa-x402](https://github.com/elldeeone/kaspa-x402) `v1.0.0-rc.1`
+Pins: [kaspa-master-file](https://github.com/STP-KAS/kaspa-master-file) freeze 13 Sep 2026
+Date: 2026-09-14
 Not Kaspa core. Not a KIP.
 
 Sister reports: [x402-vs-grok](https://github.com/STP-KAS/x402-vs-grok) · [402-is-not-x402](https://github.com/STP-KAS/402-is-not-x402)

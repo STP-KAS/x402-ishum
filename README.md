@@ -90,3 +90,12 @@ Paste-txid “claims any payment to this address” is a real collision. 1000 so
 6. Do not list Ishum under x402, KCC-0402, or “Kaspa dollar.” List it under Track 1 POS.
 
 **One sentence:** Ishum is a coffee till that prices in euros and keeps a chair for a dollar; kaspa-x402 is the meter; do not weld their names except as this warning.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
